@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "name": "Avengers: Endgame 2",
+      "genre": "Action",
+      "year": "2019",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Interstellar",
+      "genre": "Sci-Fi",
+      "year": 2014
+    },
+    {
+      "id": 3,
+      "name": "Spider-Man: No Way Home",
+      "genre": "Action",
+      "year": 2021
+    },
+    {
+      "id": 4,
+      "name": "The Lion King",
+      "genre": "Animation",
+      "year": 2019
+    },
+    {
+      "name": "alex",
+      "genre": "qqq",
+      "year": "1111",
+      "id": 5
+    }
+  ]
+}
