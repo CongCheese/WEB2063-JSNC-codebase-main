@@ -20,6 +20,14 @@ document.getElementById("form-edit").addEventListener("submit",(e)=>{
     const name = document.getElementById("name").value;
     const genre = document.getElementById("genre").value;
     const year = document.getElementById("year").value;
+    if(!name){
+    alert("please fill on blank name");
+    return;
+}
+if (year<0){
+    alert("year must be positive");
+    return;
+}
     axios.put(`http://localhost:3000/movies/${id}`,{
         name: name,
         genre: genre,

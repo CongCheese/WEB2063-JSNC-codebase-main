@@ -1,12 +1,6 @@
 {
   "movies": [
     {
-      "name": "Avengers: Endgame 2",
-      "genre": "Action",
-      "year": "2019",
-      "id": 1
-    },
-    {
       "id": 2,
       "name": "Interstellar",
       "genre": "Sci-Fi",
@@ -25,10 +19,16 @@
       "year": 2019
     },
     {
-      "name": "alex",
-      "genre": "qqq",
-      "year": "1111",
+      "name": "Fast and Furious 4",
+      "genre": "Action",
+      "year": "2004",
       "id": 5
+    },
+    {
+      "name": "wwww",
+      "genre": "Horor",
+      "year": "222",
+      "id": 6
     }
   ]
 }

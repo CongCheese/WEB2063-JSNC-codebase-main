@@ -39,6 +39,6 @@ function deleteMovie(id) {
 }
 
 function goToEditPage(id) {
-    window.location.href = `edit.html?id=${id}`;
+    location.replace(`edit.html?id=${id}`);
 }
 
